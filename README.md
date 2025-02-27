@@ -12,7 +12,7 @@ todo: add git tokens to imac
 doing right now - check
 
 todo: add git token for mini red
-doing right now
+doing right now - check
 
 
 
