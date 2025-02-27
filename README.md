@@ -15,7 +15,7 @@ todo: add git token for mini red
 doing right now - check
 
 todo: add git token for mini blue
-doing right now
+doing right now - check
 
 
 Add interactive html version
