@@ -17,8 +17,8 @@ doing right now - check
 todo: add git token for mini blue
 doing right now - check check again
 
-todo: add git token for moto g power
-doing right now- check
+todo: add git token for moto g power screenprotector
+doing right now -
 
 
 Add interactive html version
