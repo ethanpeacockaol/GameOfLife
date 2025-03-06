@@ -13,4 +13,4 @@ def my_link():
   return 'check for sin image generation!.'
 
 if __name__ == '__main__':
-  app.run(debug=True)
+  app.run(debug=False)

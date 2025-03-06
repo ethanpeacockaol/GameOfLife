@@ -9,5 +9,5 @@ def go():
 
 	plt.plot(x, y)
 	#plt.show()
-	plt.savefig("/Users/ethan/Desktop/test/sin.png")
+	plt.savefig("sin.png")
 	plt.close()
