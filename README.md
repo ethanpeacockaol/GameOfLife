@@ -22,3 +22,6 @@ doing right now - check
 
 
 Add interactive html version
+
+
+adding change to test git sync gui on android
