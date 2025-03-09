@@ -27,4 +27,6 @@ Add interactive html version
 adding change to test git sync gui on android
 
 
-poop!
+testinf abulity to push from spck editor Android using GitHub token after Google account link
+
+GitHub oath still linked though
