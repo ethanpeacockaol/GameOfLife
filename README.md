@@ -30,3 +30,7 @@ adding change to test git sync gui on android
 testinf abulity to push from spck editor Android using GitHub token after Google account link
 
 GitHub oath still linked though
+
+
+
+adding token for minibuntu now
