@@ -34,3 +34,5 @@ GitHub oath still linked though
 
 
 adding token for minibuntu now
+
+testing minibuntu token addition with credential store
