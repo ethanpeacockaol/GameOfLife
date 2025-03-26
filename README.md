@@ -39,3 +39,8 @@ testing minibuntu token addition with credential store
 
 # adding token test for aurora cmd prompt git install
 # did it work? i think so repush test success?
+
+
+aurora worked now mini pc
+
+did it work?
