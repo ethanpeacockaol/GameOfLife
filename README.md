@@ -44,3 +44,6 @@ testing minibuntu token addition with credential store
 aurora worked now mini pc
 
 did it work?
+whoops
+
+testing now
